@@ -2,6 +2,8 @@
 
 Software engineer in Kraków. Java backend by day; in my own time I build small, fast native tools for the desktop, mostly in Rust, and keep AI running locally whenever I can.
 
+The projects, with Arro's changelog, help and roadmap: **[pablosensei.github.io](https://pablosensei.github.io)**
+
 <table>
   <tr>
     <td width="56" align="center"><a href="https://github.com/PabloSensei/arro"><img src="https://raw.githubusercontent.com/PabloSensei/arro/main/crates/ui/ui-kit/assets/brand/arro.svg" width="36" alt="Arro"></a></td>
